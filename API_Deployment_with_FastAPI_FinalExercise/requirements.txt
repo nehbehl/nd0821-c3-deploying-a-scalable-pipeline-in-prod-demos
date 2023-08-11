@@ -1,0 +1,5 @@
+pip install httpx
+pip install pytest
+pip install pydantic
+pip install "uvicorn[standard]"
+pip install fastapi
